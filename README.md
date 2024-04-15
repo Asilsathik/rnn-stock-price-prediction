@@ -167,8 +167,8 @@ mse(y_test,predicted_stock_price)
 ### Mean Square Error
 
 
-![Screenshot 2024-04-15 142219](https://github.com/Asilsathik/rnn-stock-price-prediction/assets/119476247/bdc1de9f-e558-4580-90aa-7cad00974f7a)
 
+![Screenshot 2024-04-15 142228](https://github.com/Asilsathik/rnn-stock-price-prediction/assets/119476247/cacc931d-4864-4995-93ba-e9a4a4d2d1fc)
 
 ## RESULT
 
